@@ -1,0 +1,107 @@
+{  
+   "Challans":[  
+      {  
+         "id":"1",
+         "name":"Siddharth",
+         "car":"ferrari",
+         "numberplate":"TS09EH1340",
+         "challanamount":"200$",
+         "reason":"signal jump"
+      },
+
+      {  
+         "id":"2",
+         "name":"Ankit",
+         "car":"BMW",
+         "numberplate":"SN0232",
+         "challanamount":"200$",
+         "reason":"no license"
+      },
+
+
+      {  
+         "id":"3",
+         "name":"shethala",
+         "car":"ferrari",
+         "numberplate":"SN0235",
+         "challanamount":"200$",
+         "reason":"Drunken Drive"
+      },
+     {  
+         "id":"4",
+         "name":"Varun",
+         "car":"Lexus",
+         "numberplate":"SN0245",
+         "challanamount":"200$",
+         "reason":"Driving an unauthorised vehicle"
+      },
+
+      {  
+         "id":"5",
+         "name":"Kaushik",
+         "car":"BMW",
+         "numberplate":"FBR 1449",
+         "challanamount":"200$",
+         "reason":"Causing traffic obstruction"
+      },
+      {  
+         "id":"6",
+         "name":"Deepak",
+         "car":"Porsche",
+         "numberplate":"FBR 1444",
+         "challanamount":"200$",
+         "reason":"Travelling without a valid ticket"
+      },
+ {  
+         "id":"7",
+         "name":"Frank",
+         "car":"Porsche",
+         "numberplate":"UK PL8TE",
+         "challanamount":"200$",
+         "reason":"Driving without a valid insurance policy"
+      },
+ 
+     {  
+         "id":"8",
+         "name":"Anita",
+         "car":"BMW",
+         "numberplate":"ABCD 012",
+         "challanamount":"200$",
+         "reason":"Over-speeding beyond the specified speed limit"
+      },
+   
+    {  
+         "id":"9",
+         "name":"Mita",
+         "car":"Tesla",
+         "numberplate":"KKK 3249",
+         "challanamount":"200$",
+         "reason":"violations of traffic rules"
+      },
+   
+      {  
+         "id":"10",
+         "name":"Leena",
+         "car":"Audi",
+         "numberplate":"PY 05 0505",
+         "challanamount":"200$",
+         "reason":"Refusal to share information when asked"
+      },
+      {  
+          "id":"11",
+         "name":"Kiran songire",
+         "car":"Mercedes",
+         "numberplate":"PQ665CS",
+         "challanamount":"300",
+         "reason":"signal jump"
+      },
+      {  
+         "id":"12",
+        "name":"veekshith",
+        "car":"Audi",
+        "numberplate":"333ABM4",
+        "challanamount":"250",
+        "reason":"Drunken Drive"
+     }
+    ]
+}
